@@ -101,7 +101,7 @@ int main()
 
     free(source_str);
 
-    system("pause");
+    // system("pause"); // windows only
 
     return 0;
 }
